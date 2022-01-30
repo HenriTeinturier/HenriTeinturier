@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriTeinturier
-- 👀 I’m interested in Technologie, space, développement, sports, sciences, ...
-- 🌱 I’m currently learning Symfony
+- 👀 I’m interested in Technologie, space exploration, développement, sports, sciences, ...
+- 🌱 I’m currently learning Symfony, React, PHP and JS.
 - 💞️ I’m looking to collaborate on différent projects
 - 📫 How to reach me henri.teinturier@gmail.com
 
