@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriTeinturier
-- <a href="http://localhost/Apollo/portfolio%20github/HenriTeinturier/" target="_blank">visit my profile on GitHub</a> 
-- 👀 I’m interested in Technologie, space exploration, développement, sports, sciences, ...
+- [visit my profile on GitHub](http://localhost/Apollo/portfolio%20github/HenriTeinturier/){:target="_blank"}
+- 👀 I’m inturlerested in Technologie, space exploration, développement, sports, sciences, ...
 - 🌱 I’m currently learning Symfony, React, PHP and JS.
 - 💞️ I’m looking to collaborate on différent projects
 - 📫 How to reach me henri.teinturier@gmail.com
