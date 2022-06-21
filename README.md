@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @HenriTeinturier
+- [visit my Portfolio](https://www.henriteinturier.fr/ "my portfolio")
 - [<a href="[www.henriteinturier.fr/](https://www.henriteinturier.fr/)" target="_blank">My Profile on GitHub Page (target _blank)</a>](https://www.henriteinturier.fr/)
 - [visit my Portfolio]([www.henriteinturier.fr/])
 - 👀 I’m interested in Technologie, space exploration, développement, sports, sciences, ...
