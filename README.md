@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriTeinturier
-- [<a href="https://henriteinturier.github.io/HenriTeinturier/" target="_blank">My Profile on GitHub Page (target _blank)</a>](https://www.henriteinturier.fr/)
-- [visit my Portfolio]([https://henriteinturier.github.io/HenriTeinturier/](https://www.henriteinturier.fr/))
+- [<a href="[www.henriteinturier.fr/](https://www.henriteinturier.fr/)" target="_blank">My Profile on GitHub Page (target _blank)</a>](https://www.henriteinturier.fr/)
+- [visit my Portfolio]([www.henriteinturier.fr/](https://www.henriteinturier.fr/))
 - 👀 I’m interested in Technologie, space exploration, développement, sports, sciences, ...
 - 🌱 I’m currently learning React, and Animations (sprites/parralax/mobile games) JS.
 - 💞️ I’m looking to collaborate on différent projects
