@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @HenriTeinturier
-- [visit my Portfolio](https://www.henriteinturier.fr/ "my portfolio")
-- [<a href="[https://www.henriteinturier.fr/]" target="_blank">My Portfolio</a>]
 - 👀 I’m interested in Technologie, space exploration, développement, sports, sciences, ...
-- 🌱 I’m currently learning React, and Animations (sprites/parralax/mobile games) JS.
+- 🌱 After a specialization in ReactJs and a fullstack training I learn symfony before continuing on React Native and various technologies on the front.
+- 🛠️I am interested in all aspects of a project (front, UI, client, back, deployment, …)
+- [visit my Portfolio](https://www.henriteinturier.fr/ "my portfolio") (wip)
+- [MeetDev, graduation project with four colleagues](https://www.meetdev.henriteinturier.fr/ "MeetDev")
+- [My Linkedin profile](https://www.linkedin.com/in/henri-teinturier/ "linkedin profil") (wip)
 - 💞️ I’m looking to collaborate on différent projects
 - 📫 How to reach me henri.teinturier@gmail.com
 
