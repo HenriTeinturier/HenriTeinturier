@@ -4,7 +4,7 @@
 - 🛠️I am interested in all aspects of a project (front, UI, client, back, deployment, …)
 - [visit my Portfolio](https://www.henriteinturier.fr/ "my portfolio") (wip)
 - [MeetDev, graduation project with four colleagues](https://www.meetdev.henriteinturier.fr/ "MeetDev")
-- [My Linkedin profile](https://www.linkedin.com/in/henri-teinturier/ "linkedin profil") (wip)
+- [My Linkedin profile](https://www.linkedin.com/in/henri-teinturier/ "linkedin profil")
 - 💞️ I’m looking to collaborate on différent projects
 - 📫 How to reach me henri.teinturier@gmail.com
 
