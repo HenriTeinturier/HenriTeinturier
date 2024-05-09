@@ -6,7 +6,7 @@ I'm looking to contribute to the development of startups. I can create your firs
 - Visit my [Portfolio](https:www.henriteinturier.com)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?perline=6&i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git)](https://skillicons.dev)
 
 ## What I can bring
 
