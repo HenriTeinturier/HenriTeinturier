@@ -1,5 +1,5 @@
 # Hi, I'm Henri Teinturier! 👋 
-I'm looking to contribute to the development of startups. I can create your first MVP from A to Z, or contribute to the development of your startup by working in a team with other developers, product teams, and marketing teams.
+I'm looking to contribute to the development of startups. I can create your first MVP from A to Z, or contribute to the development of your project by working in a team with other developers, product teams, and marketing teams.
 
 ## 📬 Get in Touch
 - Connect with me on [Linkedin](https://www.linkedin.com/in/henri-teinturier/)
