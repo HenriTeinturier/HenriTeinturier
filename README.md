@@ -39,7 +39,8 @@ I'm looking to contribute to the development of startups.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&layout=compact"  height="150px"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show=reviews,discussions_started,discussions_answered&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-git-master-henri-teinturiers-projects.vercel.app/api?show=reviews,discussions_started,discussions_answered&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true"/>
+  
   </div>
 </div>
 
