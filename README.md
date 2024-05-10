@@ -1,6 +1,7 @@
 # Hi, I'm Henri Teinturier! 👋 
 I'm looking to contribute to the development of startups. I can create your first MVP from A to Z, or contribute to the development of your project by working in a team with other developers, product teams, and marketing teams.
 
+
 ## 📬 Get in Touch
 - Connect with me on [Linkedin](https://www.linkedin.com/in/henri-teinturier/)
 - Visit my [Portfolio](https:www.henriteinturier.com)
@@ -23,10 +24,11 @@ I'm looking to contribute to the development of startups. I can create your firs
 
 ## My Github Stats
 
-![HenriTeinturier's Stats](https://github-readme-stats.vercel.app/api?show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&layout=compact)
+
+![HenriTeinturier's Stats](https://github-readme-stats.vercel.app/api?show=reviews,discussions_started,discussions_answered&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenriTeinturier&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <!---
