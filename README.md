@@ -21,8 +21,7 @@ I'm looking to contribute to the development of startups. I can create your firs
 - Many experiments and training sessions: On AI, Next.js, Tailwind, PostgreSQL, Vercel, Supabase, Vercel, ...
 - Demonstration of a SaaS with AI from scratch: www.powerpost.henriteinturier.com: Next.js (React with client and server side), Supabase (PostgreSQL database), Auth.js (authentication), Stripe (payment), Tailwind + Shadcn (style), OpenAI (AI for summarizing posts), Vercel (Deployment + CLI).*
 
-
-
+## My Github Stats
 
 ![HenriTeinturier's Stats](https://github-readme-stats.vercel.app/api?show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true)
 
