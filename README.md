@@ -19,10 +19,15 @@ I'm looking to contribute to the development of startups. I can create your firs
 ## My experiences
 - 2 years at Nooco as a front-end developer. A startup that measures the environmental impact of new construction, renovation, or operational projects.
 - Many experiments and training sessions: On AI, Next.js, Tailwind, PostgreSQL, Vercel, Supabase, Vercel, ...
-- Demonstration of a SaaS with AI from scratch: www.powerpost.henriteinturier.com: Next.js (React with client and server side), Supabase (PostgreSQL database), Auth.js (authentication), Stripe (payment), Tailwind + Shadcn (style), OpenAI (AI for summarizing posts), Vercel (Deployment + CLI).
+- Demonstration of a SaaS with AI from scratch: www.powerpost.henriteinturier.com: Next.js (React with client and server side), Supabase (PostgreSQL database), Auth.js (authentication), Stripe (payment), Tailwind + Shadcn (style), OpenAI (AI for summarizing posts), Vercel (Deployment + CLI).*
 
-![HenriTeinturier's Stats](https://github-readme-stats.vercel.app/api?username=HenriTeinturier&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+
+
+![HenriTeinturier's Stats](https://github-readme-stats.vercel.app/api?show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&layout=compact)
 
 <!---
 HenriTeinturier/HenriTeinturier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
