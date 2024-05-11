@@ -31,7 +31,7 @@ I'm looking to contribute to the development of startups.
 ### My experiences
 - 2 years at Nooco as a front-end developer. A startup that measures the environmental impact of new construction, renovation, or operational projects.
 - Many experiments and training sessions: On AI, Next.js, Tailwind, PostgreSQL, Vercel, Supabase, Vercel, ...
-- Demonstration of a SaaS with AI from scratch: www.powerpost.henriteinturier.com: Next.js (React with client and server side), Supabase (PostgreSQL database), Auth.js (authentication), Stripe (payment), Tailwind + Shadcn (style), OpenAI (AI for summarizing posts), Vercel (Deployment + CLI).*
+- Demonstration of a SaaS with AI from scratch: www.powerpost.henriteinturier.com: Next.js (React with client and server side), Supabase + Prisma (PostgreSQL database), Auth.js (authentication), Stripe (payment), Tailwind + Shadcn (style), OpenAI (AI for summarizing posts), Vercel (Deployment + CLI).*
 
 ### My Github Stats
 <div align="center"  >
