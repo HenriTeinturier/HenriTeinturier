@@ -32,7 +32,7 @@ Développeur React • Next.js
 - Démonstration d'un SaaS avec IA de zéro : www.powerpost.henriteinturier.com : Next.js (React avec client et serveur), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
 
 ### Mon Portfolio
-[Henri Teinturier](https://www.henriteinturier.com)
+[Portfolio](https://www.henriteinturier.com)
 
 ### Mes Statistiques Github
 <div align="center">
