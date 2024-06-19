@@ -1,8 +1,12 @@
 # Hi, I'm Henri Teinturier! 👋 
 Développeur React • Next.js
 
-Je cherche à contribuer au développement de startups. 
+### Je peux vous accompagner sur:  
 - Je peux créer votre premier MVP de A à Z.
+- Le recueil et l'analyse de votre besoin.
+- Le développement web Frontend React / Next.JS / Typescript
+- Le développement web backend Next.js / Typescript
+- Intégrer de l'intelligence artificielle à votre solution
 - Contribuer au développement de votre projet en travaillant en équipe avec d'autres développeurs, les équipes produit et les équipes marketing.
 
 <div id="header" align="center">
@@ -20,13 +24,7 @@ Je cherche à contribuer au développement de startups.
 ### Stack Technique
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git)](https://skillicons.dev)
 
-### Ce que j'offre
 
-- Collaboration efficace avec toutes les équipes. J'ai dirigé des équipes de jusqu'à 30 personnes et j'aime participer activement et faire des suggestions. J'apprécie l'atmosphère des startups où tout le monde communique avec tout le monde (développeurs, marketing, équipes produit, etc.).
-- Compréhension des besoins des startups : rapidité, adaptabilité, etc., mais je laisse les décisions finales au CTO/CEO.
-- Fiable : Quand je m'engage, je suis à 100%.
-- Intérêt pour les développements et les innovations dans le domaine du développement. Je suis prêt à travailler avec ces technologies ou à faire des propositions.
-- J'aime travailler avec une architecture propre pour faciliter le scaling.
 
 ### Mes expériences
 - 2 ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels.
