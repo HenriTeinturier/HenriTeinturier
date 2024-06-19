@@ -1,5 +1,46 @@
 # Hi, I'm Henri Teinturier! 👋 
-FullStack Developper.
+Développeur React • Next.js
+
+Je cherche à contribuer au développement de startups. 
+- Je peux créer votre premier MVP de A à Z.
+- Contribuer au développement de votre projet en travaillant en équipe avec d'autres développeurs, les équipes produit et les équipes marketing.
+
+<div id="header" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" width="70"/>
+</div>
+
+<div id="badges" align="center">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/henri-teinturier/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Portfolio-3b82f6" alt="Portfolio Badge"/></a>
+    <a href="https://www.powerpost.henriteinturier.com"><img src="https://img.shields.io/badge/Sass%20Demonstration-8b5cf6" alt="SaaS demonstration Badge"/></a>
+  </div>
+</div>
+
+### Stack Technique
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git)](https://skillicons.dev)
+
+### Ce que j'offre
+
+- Collaboration efficace avec toutes les équipes. J'ai dirigé des équipes de jusqu'à 30 personnes et j'aime participer activement et faire des suggestions. J'apprécie l'atmosphère des startups où tout le monde communique avec tout le monde (développeurs, marketing, équipes produit, etc.).
+- Compréhension des besoins des startups : rapidité, adaptabilité, etc., mais je laisse les décisions finales au CTO/CEO.
+- Fiable : Quand je m'engage, je suis à 100%.
+- Intérêt pour les développements et les innovations dans le domaine du développement. Je suis prêt à travailler avec ces technologies ou à faire des propositions.
+- J'aime travailler avec une architecture propre pour faciliter le scaling.
+
+### Mes expériences
+- 2 ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels.
+- Nombreuses expérimentations et formations : Sur l'IA, Next.js, Tailwind, PostgreSQL, Vercel, Supabase, Vercel, ...
+- Démonstration d'un SaaS avec IA de zéro : www.powerpost.henriteinturier.com : Next.js (React avec client et serveur), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
+
+### Mes Statistiques Github
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriTeinturier&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&layout=compact" height="150px" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-git-master-henri-teinturiers-projects.vercel.app/api?show=reviews,discussions_started,discussions_answered&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true"/>
+</div>
 
 I'm looking to contribute to the development of startups. 
 - I can create your first MVP from A to Z.
