@@ -1,5 +1,5 @@
 # Hi, I'm Henri Teinturier! 👋 
-## Développeur React • Next.js
+Développeur React • Next.js
 
 ### Je peux vous accompagner sur:  
 - Je peux créer votre premier MVP de A à Z.
