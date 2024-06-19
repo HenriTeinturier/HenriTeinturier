@@ -1,4 +1,4 @@
-# Hi, I'm Henri Teinturier! 👋 
+# Bonjour, Je suis Henri Teinturier! 👋 
 Développeur React • Next.js
 
 ### Je peux vous accompagner sur:  
