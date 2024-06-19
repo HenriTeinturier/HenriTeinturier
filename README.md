@@ -2,11 +2,11 @@
 Développeur React • Next.js
 
 ### Je peux vous accompagner sur:  
-- Je peux créer votre premier MVP de A à Z.
 - Le recueil et l'analyse de votre besoin.
 - Le développement web Frontend React / Next.JS / Typescript
 - Le développement web backend Next.js / Typescript
 - Intégrer de l'intelligence artificielle à votre solution
+- Création de votre premier MVP de A à Z.
 - Contribuer au développement de votre projet en travaillant en équipe avec d'autres développeurs, les équipes produit et les équipes marketing.
 
 <div id="header" align="center">
