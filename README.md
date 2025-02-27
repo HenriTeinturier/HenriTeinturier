@@ -22,7 +22,7 @@ Développeur React • Next.js
 </div>
 
 ### Stack Technique
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,ai,nodejs,prisma,supabase,git,docker,github)](https://skillicons.dev)
 
 
 
