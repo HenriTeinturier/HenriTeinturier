@@ -27,8 +27,8 @@ Développeur React • Next.js
 
 
 ### Mes expériences
-- 2 ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels.
-- Nombreuses expérimentations et formations : Sur l'IA, Next.js, Tailwind, PostgreSQL, Vercel, Supabase, Vercel, ...
+- Deux ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels. Travail avec des grands groupes comme Vinci, Bouygues, ... a été racheté par Deepki qui a fait une levé de fond de 150M.
+- Un an Formateur web pour 2ai Concept: J'niame des formations sur React, Next.js, Docker, Git, Github action et CI/CD.
 - Démonstration d'un SaaS avec IA de zéro : www.powerpost.henriteinturier.com : Next.js (React avec client et serveur), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
 
 ### Mon Portfolio
