@@ -4,7 +4,7 @@ Développeur React • Next.js
 ### Je peux vous accompagner sur:  
 - Le recueil et l'analyse de votre besoin.
 - Le développement web Frontend React / Next.JS / Typescript
-- Le développement web backend Next.js / Typescript
+- Le développement web backend Next.js / Node.js / Express / Typescript
 - Intégrer de l'intelligence artificielle à votre solution
 - Création de votre premier MVP de A à Z.
 - Contribuer au développement de votre projet en travaillant en équipe avec d'autres développeurs, les équipes produit et les équipes marketing.
