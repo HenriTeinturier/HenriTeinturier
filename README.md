@@ -1,5 +1,5 @@
 # Bonjour, Je suis Henri Teinturier! 👋 
-Développeur React • Next.js
+Développeur fullstack React • Next.js
 
 ### Je peux vous accompagner sur:  
 - Le recueil et l'analyse de votre besoin.
@@ -28,8 +28,8 @@ Développeur React • Next.js
 
 ### Mes expériences
 - Deux ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels. Travail avec des grands groupes comme Vinci, Bouygues, ... a été racheté par Deepki qui a fait une levé de fond de 150M.
-- Un an Formateur web pour 2ai Concept: J'niame des formations sur React, Next.js, Docker, Git, Github action et CI/CD.
-- Démonstration d'un SaaS avec IA de zéro : www.powerpost.henriteinturier.com : Next.js (React avec client et serveur), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
+- Un an Formateur web pour 2ai Concept: J'anime des formations sur React, Next.js, Node.js, Express, Docker, Git, Github action et CI/CD.
+- Powerpost: Démonstration d'un SaaS avec Ia - www.powerpost.henriteinturier.com : Next.js (React avec client et serveur components), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
 
 ### Mon Portfolio
 [Portfolio](https://www.henriteinturier.com)
