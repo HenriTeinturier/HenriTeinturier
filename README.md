@@ -66,7 +66,7 @@ Rassembler ses portefeuilles PEA et CTO et suivre leur évolution au même endro
 
 <a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-showcase-v1.png" alt="Thesia : aperçu simplifié de la vue d’ensemble, avec la valeur totale, l’évolution du résultat et les comptes PEA et CTO. Montants fictifs de démonstration." width="100%" /></a>
 
-[Voir l’accueil de Thesia →](https://thesia.henriteinturier.com) · Accès privé
+[Voir l’accueil de Thesia →](https://thesia.henriteinturier.com) · [Présentation du projet](https://github.com/HenriTeinturier/thesia-presentation) · Accès privé
 
 ### Fluxy · Suivre son budget et garder le cap
 
@@ -74,7 +74,7 @@ Enregistrer ses dépenses, se situer par rapport à son objectif et anticiper la
 
 <a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-showcase-v1.png" alt="Fluxy : aperçu simplifié de l’ajout d’une dépense et du suivi du budget quotidien, avec une jauge d’objectif et une estimation de fin de mois. Données de démonstration." width="100%" /></a>
 
-[Découvrir Fluxy →](https://fluxy-pied.vercel.app/)
+[Découvrir Fluxy →](https://fluxy-pied.vercel.app/) · [Présentation du projet](https://github.com/HenriTeinturier/fluxy-presentation)
 
 ## Mon activité sur GitHub
 
