@@ -21,6 +21,18 @@ Mon parcours réunit direction d’entreprise, développement en startup et ense
   <a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia.svg" alt="Thesia — Centraliser ses investissements et suivre ses portefeuilles PEA et CTO. Voir l’accueil, accès privé." width="49%" /></a>
 </p>
 
+**Séquencia en images · D’une évaluation à son corrigé avec l’IA**
+
+<a href="https://github.com/HenriTeinturier/sequencia-presentation"><img src="assets/profile/sequencia-correction-ia.png" alt="Séquencia : un corrigé généré avec l’IA, enrichi à la demande de l’enseignant avec les schémas du sujet, puis présenté en PDF avant validation." width="100%" /></a>
+
+Le contexte du chapitre accompagne la demande. L’enseignant peut affiner la proposition, choisir une version et la valider avant l’enregistrement.
+
+<details>
+  <summary>Voir l’application : séances, progression et documents</summary>
+  <br />
+  <a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-application.png" alt="Interface de Séquencia : navigation entre les classes, suivi des séances et centralisation des ressources d’un chapitre." width="100%" /></a>
+</details>
+
 → **[Séquencia : présentation, captures et architecture](https://github.com/HenriTeinturier/sequencia-presentation)**
 
 L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec ChatGPT et Copilot à l’intégration d’assistants dans mes applications. Aujourd’hui, je développe notamment avec **Codex et Claude Code**.
