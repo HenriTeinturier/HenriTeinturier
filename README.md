@@ -8,7 +8,11 @@
   <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Portfolio-D%C3%A9couvrir-227C70?style=flat-square" alt="Découvrir mon portfolio" /></a>
 </p>
 
-J’accompagne les **PME, startups et entrepreneurs** dans leurs usages de l’IA et la création d’outils adaptés à leur activité.
+**Vous souhaitez améliorer vos processus et intégrer l’IA dans votre activité, mais vous manquez de temps ou de compétences techniques pour vous lancer ?**
+
+Je vous conseille et prends en charge la mise en place : automatisation des tâches répétitives, intégration de l’IA et création d’applications métier adaptées à vos besoins. L’objectif : **vous faire gagner du temps et faciliter le travail de vos équipes**, avec des outils pratiques et simples à utiliser.
+
+Je vous explique les choix et le fonctionnement des solutions, puis vous accompagne dans leur prise en main. **Vous gardez la maîtrise de vos outils et de leur utilisation.**
 
 **Conseil IA · Automatisation · Applications sur mesure · Sites web**
 
