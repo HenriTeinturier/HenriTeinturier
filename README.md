@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner-ia-automatisation-v2.svg" alt="Henri Teinturier — IA, automatisation et applications métier. Moins de tâches répétitives. Plus de temps pour votre activité. Du conseil à la mise en place, vous gardez la maîtrise." width="100%" />
+  <img src="assets/profile/banner-ia-cerveau-baskets-v3.png" alt="Henri Teinturier — IA, automatisation et applications métier. L’IA, les pieds sur terre. Un cerveau stylisé en baskets." width="100%" />
 </p>
 
 <p align="center">
