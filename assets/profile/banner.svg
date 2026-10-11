@@ -1,13 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title">
-<title id="title">Henri Teinturier — IA et automatisation pour les PME</title>
-<rect width="1200" height="320" rx="24" fill="#101d2c"/>
-<circle cx="1135" cy="20" r="185" fill="#183c46"/><circle cx="1190" cy="290" r="145" fill="#1b3049"/>
-<path d="M928 111h94v86h85" fill="none" stroke="#65d6ba" stroke-width="3" opacity=".65"/>
-<rect x="914" y="97" width="28" height="28" rx="8" fill="#65d6ba"/><rect x="1008" y="183" width="28" height="28" rx="8" fill="#65d6ba"/><rect x="1093" y="183" width="28" height="28" rx="8" fill="#91a4ff"/>
-<g font-family="Segoe UI, Arial, sans-serif">
-<text x="54" y="64" fill="#65d6ba" font-size="17" font-weight="600" letter-spacing="2">HENRI TEINTURIER</text>
-<text x="54" y="116" fill="#e8eef6" font-size="25">IA &amp; automatisation pour les PME</text>
-<text x="54" y="181" fill="#ffffff" font-size="42" font-weight="700">Automatiser vos processus.</text>
-<text x="54" y="232" fill="#ffffff" font-size="42" font-weight="700">Créer vos outils métier.</text>
-<text x="54" y="281" fill="#a8b9cd" font-size="18">Comprendre le besoin. Construire. Améliorer.</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Henri Teinturier — IA, automatisation et applications métier</title>
+  <desc id="desc">Moins de tâches répétitives. Plus de temps pour votre activité. Du conseil à la mise en place, vous gardez la maîtrise.</desc>
+  <rect x="1" y="1" width="1198" height="348" rx="24" fill="#f8f7f3" stroke="#e5e3ed"/>
+  <path d="M950 1h225a24 24 0 0 1 24 24v300a24 24 0 0 1-24 24H950z" fill="#eeecfb"/>
+  <g fill="none" stroke="#b8b0e8" stroke-width="2">
+    <path d="M983 100h77v75h76M1060 175v75h-77"/>
+  </g>
+  <rect x="964" y="81" width="38" height="38" rx="12" fill="#ded9fa"/>
+  <path d="M974 94h18m-18 6h13m-13 6h16" fill="none" stroke="#6151c6" stroke-width="2" stroke-linecap="round"/>
+  <rect x="1038" y="153" width="44" height="44" rx="14" fill="#6151c6"/>
+  <path d="m1060 162 3.5 9.5 9.5 3.5-9.5 3.5-3.5 9.5-3.5-9.5-9.5-3.5 9.5-3.5z" fill="#fff"/>
+  <rect x="1117" y="156" width="38" height="38" rx="12" fill="#217b6c"/>
+  <path d="m1127 175 6 6 12-12" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="964" y="231" width="38" height="38" rx="12" fill="#d9ece5"/>
+  <path d="M975 258v-9m8 9v-15m8 15v-21" fill="none" stroke="#217b6c" stroke-width="2.5" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="53" fill="#6151c6" font-size="17" font-weight="700" letter-spacing="2">HENRI TEINTURIER</text>
+    <text x="48" y="96" fill="#53556c" font-size="23">IA · Automatisation · Applications métier</text>
+    <text x="48" y="164" fill="#202638" font-size="43" font-weight="700">Moins de tâches répétitives.</text>
+    <text x="48" y="218" fill="#202638" font-size="43" font-weight="700">Plus de temps pour votre activité.</text>
+    <path d="M48 250h65" stroke="#217b6c" stroke-width="3" stroke-linecap="round"/>
+    <text x="48" y="288" fill="#53556c" font-size="21">Du conseil à la mise en place,</text>
+    <text x="48" y="318" fill="#217b6c" font-size="21" font-weight="600">vous gardez la maîtrise.</text>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner.svg" alt="Henri Teinturier — IA et automatisation pour les PME. Automatiser vos processus. Créer vos outils métier." width="100%" />
+  <img src="assets/profile/banner.svg" alt="Henri Teinturier — IA, automatisation et applications métier. Moins de tâches répétitives. Plus de temps pour votre activité. Du conseil à la mise en place, vous gardez la maîtrise." width="100%" />
 </p>
 
 <p align="center">
