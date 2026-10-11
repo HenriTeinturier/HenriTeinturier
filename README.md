@@ -40,6 +40,14 @@ Vous manquez de temps ou de compétences techniques pour vous lancer ? **Je vous
 
 [**Échangeons sur vos besoins →**](https://www.linkedin.com/in/henri-teinturier/)
 
+## Entreprise, développement et transmission
+
+Mon parcours réunit **direction d’entreprise, développement en startup et enseignement**. J’aime comprendre un besoin, construire une solution utile et la faire évoluer avec ses utilisateurs.
+
+L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec ChatGPT et Copilot à l’intégration d’assistants dans mes applications. Aujourd’hui, je développe notamment avec **Codex et Claude Code**.
+
+Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l’automatisation et des applications métier. [Parlons de votre projet →](https://www.linkedin.com/in/henri-teinturier/)
+
 ## Des besoins concrets, des applications
 
 <p>
@@ -60,14 +68,6 @@ Le contexte du chapitre accompagne la demande. L’enseignant peut affiner la pr
 </details>
 
 → **[Séquencia : présentation, captures et architecture](https://github.com/HenriTeinturier/sequencia-presentation)**
-
-## Entreprise, développement et transmission
-
-Mon parcours réunit **direction d’entreprise, développement en startup et enseignement**. J’aime comprendre un besoin, construire une solution utile et la faire évoluer avec ses utilisateurs.
-
-L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec ChatGPT et Copilot à l’intégration d’assistants dans mes applications. Aujourd’hui, je développe notamment avec **Codex et Claude Code**.
-
-Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l’automatisation et des applications métier. [Parlons de votre projet →](https://www.linkedin.com/in/henri-teinturier/)
 
 ## Mon activité sur GitHub
 
