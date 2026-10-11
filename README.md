@@ -1,53 +1,41 @@
-# Bonjour, Je suis Henri Teinturier! 👋 
-Développeur fullstack React • Next.js
+<p align="center">
+  <img src="assets/profile/banner.svg" alt="Henri Teinturier — IA et automatisation pour les PME. Automatiser vos processus. Créer vos outils métier." width="100%" />
+</p>
 
-### Je peux vous accompagner sur:  
-- Le recueil et l'analyse de votre besoin.
-- Le développement web Frontend React / Next.JS / Typescript
-- Le développement web backend Next.js / Node.js / Express / Typescript
-- Intégrer de l'intelligence artificielle à votre solution
-- Création de votre premier MVP de A à Z.
-- Contribuer au développement de votre projet en travaillant en équipe avec d'autres développeurs, les équipes produit et les équipes marketing.
+<p align="center">
+  <a href="https://www.linkedin.com/in/henri-teinturier/"><img src="https://img.shields.io/badge/LinkedIn-%C3%89changeons-0A66C2?style=flat-square" alt="Échangeons sur LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Portfolio-D%C3%A9couvrir-227C70?style=flat-square" alt="Découvrir mon portfolio" /></a>
+</p>
 
-<div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" width="70"/>
-</div>
+J’accompagne les **PME, startups et entrepreneurs** dans leurs usages de l’IA et la création d’outils adaptés à leur activité.
 
-<div id="badges" align="center">
-  <div align="center">
-    <a href="https://www.linkedin.com/in/henri-teinturier/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Portfolio-3b82f6" alt="Portfolio Badge"/></a>
-    <a href="https://www.powerpost.henriteinturier.com"><img src="https://img.shields.io/badge/Sass%20Demonstration-8b5cf6" alt="SaaS demonstration Badge"/></a>
-  </div>
-</div>
+**Conseil IA · Automatisation · Applications sur mesure · Sites web**
 
-### Stack Technique
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,vite,nodejs,tailwind,redux,docker,githubactions,ai,cypress,jest,mongodb,prisma,supabase,aws,bash,linux,ubuntu,apple,windows,npm,git,github,js,html,css,sass)](https://skillicons.dev)
+Mon parcours réunit direction d’entreprise, développement en startup et enseignement. J’aime comprendre un besoin, construire une solution utile et la faire évoluer avec ses utilisateurs.
 
+### Des besoins concrets, des applications
 
+<p>
+  <a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia.svg" alt="Séquencia — Préparer ses cours avec l’IA, projeter ses documents et suivre ses classes. Découvrir l’application." width="49%" /></a>
+  <a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia.svg" alt="Thesia — Centraliser ses investissements et suivre ses portefeuilles PEA et CTO. Voir l’accueil, accès privé." width="49%" /></a>
+</p>
 
-### Mes expériences
-- Deux ans chez Nooco en tant que développeur front-end. Une startup qui mesure l'impact environnemental des nouveaux projets de construction, de rénovation ou opérationnels. Travail avec des grands groupes comme Vinci, Bouygues, ... a été racheté par Deepki qui a fait une levé de fond de 150M.
-- Un an Formateur web pour 2ai Concept: J'anime des formations sur React, Next.js, Node.js, Express, Docker, Git, Github action et CI/CD.
-- Powerpost: Démonstration d'un SaaS avec Intelligence artificielle - Permet de faire des résumés personnalisés depuis des articles selectionné sur internet - www.powerpost.henriteinturier.com : Next.js (React avec client et serveur components), Supabase + Prisma (base de données PostgreSQL), Auth.js (authentification), Stripe (paiement), Tailwind + Shadcn (style), OpenAI (IA pour résumer les posts), Vercel (déploiement + CLI).*
+→ **[Séquencia : présentation, captures et architecture](https://github.com/HenriTeinturier/sequencia-presentation)**
 
-### Mon Portfolio
-[Portfolio](https://www.henriteinturier.com)
+L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec ChatGPT et Copilot à l’intégration d’assistants dans mes applications. Aujourd’hui, je développe notamment avec **Codex et Claude Code**.
 
-### Mes Statistiques Github
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriTeinturier&theme=tokyonight" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html&layout=compact" height="150px" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats-git-master-henri-teinturiers-projects.vercel.app/api?show=reviews,discussions_started,discussions_answered&username=HenriTeinturier&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true&count_private=true"/>
-</div>
+Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l’automatisation et des applications métier. [Parlons de votre projet →](https://www.linkedin.com/in/henri-teinturier/)
 
+### Mon activité sur GitHub
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HenriTeinturier&amp;theme=tokyonight&amp;hide_border=true" alt="Contributions et séries d’activité GitHub de Henri Teinturier" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriTeinturier&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" alt="Statistiques GitHub de Henri Teinturier" width="49%" />
+</p>
 
-
-
-<!---
-HenriTeinturier/HenriTeinturier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+  <summary>Langages de mes dépôts publics</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriTeinturier&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Répartition des langages des dépôts publics de Henri Teinturier" />
+</details>

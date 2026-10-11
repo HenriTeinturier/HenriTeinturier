@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title">
+<title id="title">Henri Teinturier — IA et automatisation pour les PME</title>
+<rect width="1200" height="320" rx="24" fill="#101d2c"/>
+<circle cx="1135" cy="20" r="185" fill="#183c46"/><circle cx="1190" cy="290" r="145" fill="#1b3049"/>
+<path d="M928 111h94v86h85" fill="none" stroke="#65d6ba" stroke-width="3" opacity=".65"/>
+<rect x="914" y="97" width="28" height="28" rx="8" fill="#65d6ba"/><rect x="1008" y="183" width="28" height="28" rx="8" fill="#65d6ba"/><rect x="1093" y="183" width="28" height="28" rx="8" fill="#91a4ff"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="54" y="64" fill="#65d6ba" font-size="17" font-weight="600" letter-spacing="2">HENRI TEINTURIER</text>
+<text x="54" y="116" fill="#e8eef6" font-size="25">IA &amp; automatisation pour les PME</text>
+<text x="54" y="181" fill="#ffffff" font-size="42" font-weight="700">Automatiser vos processus.</text>
+<text x="54" y="232" fill="#ffffff" font-size="42" font-weight="700">Créer vos outils métier.</text>
+<text x="54" y="281" fill="#a8b9cd" font-size="18">Comprendre le besoin. Construire. Améliorer.</text>
+</g></svg>

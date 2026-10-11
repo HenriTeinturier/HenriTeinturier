@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="235" viewBox="0 0 580 235" role="img" aria-labelledby="title">
+<title id="title">Séquencia — Organisation pédagogique et IA</title>
+<rect x="1" y="1" width="578" height="233" rx="20" fill="#f3f1ff" stroke="#dcd8ff"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="30" y="39" fill="#5850df" font-size="12" font-weight="700" letter-spacing="1.8">ENSEIGNEMENT · IA</text>
+<text x="30" y="89" fill="#22223d" font-size="34" font-weight="700">Séquencia</text>
+<text x="30" y="126" fill="#55556e" font-size="18">Préparer ses cours avec l’IA.</text>
+<text x="30" y="154" fill="#55556e" font-size="18">Projeter ses documents. Suivre ses classes.</text>
+<text x="30" y="205" fill="#5146e5" font-size="16" font-weight="600">Découvrir l’application →</text>
+</g><rect x="507" y="29" width="42" height="42" rx="12" fill="#5146e5"/>
+<path d="M518 43h20M518 50h14M518 57h17" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>

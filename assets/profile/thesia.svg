@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="235" viewBox="0 0 580 235" role="img" aria-labelledby="title">
+<title id="title">Thesia — Suivi des investissements, accès privé</title>
+<rect x="1" y="1" width="578" height="233" rx="20" fill="#edf6f3" stroke="#cfe4dc"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="30" y="39" fill="#227c70" font-size="12" font-weight="700" letter-spacing="1.8">INVESTISSEMENTS · SUIVI</text>
+<text x="30" y="89" fill="#183b35" font-size="34" font-weight="700">Thesia</text>
+<text x="30" y="126" fill="#49645e" font-size="18">Centraliser ses investissements.</text>
+<text x="30" y="154" fill="#49645e" font-size="18">Suivre ses portefeuilles PEA et CTO.</text>
+<text x="30" y="205" fill="#227c70" font-size="16" font-weight="600">Voir l’accueil · Accès privé →</text>
+</g><rect x="507" y="29" width="42" height="42" rx="12" fill="#227c70"/>
+<path d="M518 58V50m10 8V44m10 14V38" stroke="#fff" stroke-width="3" stroke-linecap="round"/></svg>
