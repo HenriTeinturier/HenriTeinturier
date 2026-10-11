@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/banner.svg" alt="Henri Teinturier — IA, automatisation et applications métier. Moins de tâches répétitives. Plus de temps pour votre activité. Du conseil à la mise en place, vous gardez la maîtrise." width="100%" />
+  <img src="assets/profile/banner-ia-automatisation-v2.svg" alt="Henri Teinturier — IA, automatisation et applications métier. Moins de tâches répétitives. Plus de temps pour votre activité. Du conseil à la mise en place, vous gardez la maîtrise." width="100%" />
 </p>
 
 <p align="center">
@@ -55,3 +55,4 @@ Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l�
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriTeinturier&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Répartition des langages des dépôts publics de Henri Teinturier" />
 </details>
+
