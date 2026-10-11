@@ -48,26 +48,33 @@ L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec C
 
 Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l’automatisation et des applications métier. [Parlons de votre projet →](https://www.linkedin.com/in/henri-teinturier/)
 
-## Des besoins concrets, des applications
+## Des applications pour simplifier le quotidien
 
-<p>
-  <a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia.svg" alt="Séquencia — Préparer ses cours avec l’IA, projeter ses documents et suivre ses classes. Découvrir l’application." width="49%" /></a>
-  <a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia.svg" alt="Thesia — Centraliser ses investissements et suivre ses portefeuilles PEA et CTO. Voir l’accueil, accès privé." width="49%" /></a>
-</p>
+Enseignement, investissements, budget du foyer : trois applications que je conçois et développe pour rendre les choses plus simples à préparer, à suivre et à comprendre.
 
-### Séquencia en images · D’une évaluation à son corrigé avec l’IA
+### Séquencia · Préparer ses cours et suivre ses classes
 
-<a href="https://github.com/HenriTeinturier/sequencia-presentation"><img src="assets/profile/sequencia-correction-ia.png" alt="Séquencia : un corrigé généré avec l’IA, enrichi à la demande de l’enseignant avec les schémas du sujet, puis présenté en PDF avant validation." width="100%" /></a>
+Organiser ses séances, retrouver ses documents et s’appuyer sur l’IA pour préparer ses supports pédagogiques.
 
-Le contexte du chapitre accompagne la demande. L’enseignant peut affiner la proposition, choisir une version et la valider avant l’enregistrement.
+<a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-showcase-v1.png" alt="Séquencia : aperçu simplifié d’un chapitre de Pythagore, avec les séances terminées, la séance en cours et un document prêt à projeter. Données de démonstration." width="100%" /></a>
 
-<details>
-  <summary>Voir l’application : séances, progression et documents</summary>
-  <br />
-  <a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-application.png" alt="Interface de Séquencia : navigation entre les classes, suivi des séances et centralisation des ressources d’un chapitre." width="100%" /></a>
-</details>
+[Découvrir Séquencia →](https://cours-college.vercel.app/presentation) · [Présentation technique](https://github.com/HenriTeinturier/sequencia-presentation)
 
-→ **[Séquencia : présentation, captures et architecture](https://github.com/HenriTeinturier/sequencia-presentation)**
+### Thesia · Garder une vue claire sur ses investissements
+
+Rassembler ses portefeuilles PEA et CTO et suivre leur évolution au même endroit.
+
+<a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-showcase-v1.png" alt="Thesia : aperçu simplifié de la vue d’ensemble, avec la valeur totale, l’évolution du résultat et les comptes PEA et CTO. Montants fictifs de démonstration." width="100%" /></a>
+
+[Voir l’accueil de Thesia →](https://thesia.henriteinturier.com) · Accès privé
+
+### Fluxy · Suivre son budget et garder le cap
+
+Enregistrer ses dépenses, se situer par rapport à son objectif et anticiper la fin du mois, seul ou à deux.
+
+<a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-showcase-v1.png" alt="Fluxy : aperçu simplifié de l’ajout d’une dépense et du suivi du budget quotidien, avec une jauge d’objectif et une estimation de fin de mois. Données de démonstration." width="100%" /></a>
+
+[Découvrir Fluxy →](https://fluxy-pied.vercel.app/)
 
 ## Mon activité sur GitHub
 
