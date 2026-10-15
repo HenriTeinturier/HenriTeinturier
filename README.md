@@ -1,80 +1,88 @@
 <p align="center">
-  <img src="assets/profile/banner-ia-cerveau-baskets-v3.png" alt="Henri Teinturier — IA, automatisation et applications métier. L’IA, les pieds sur terre. Un cerveau stylisé en baskets." width="100%" />
+  <img src="assets/profile/banner-recruteurs-v1.png" alt="Henri Teinturier, développeur full-stack TypeScript, IA et automatisation. Disponible en freelance ou CDD, CDI ouvert : Caen, télétravail ou Paris en hybride." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henri-teinturier/"><img src="https://img.shields.io/badge/LinkedIn-%C3%89changeons-0A66C2?style=flat-square" alt="Échangeons sur LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/henri-teinturier/"><img src="https://img.shields.io/badge/LinkedIn-Henri_Teinturier-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Profil LinkedIn d’Henri Teinturier" /></a>
   &nbsp;
-  <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Portfolio-D%C3%A9couvrir-227C70?style=flat-square" alt="Découvrir mon portfolio" /></a>
+  <a href="https://www.henriteinturier.com"><img src="https://img.shields.io/badge/Site-henriteinturier.com-0B1228?style=flat-square" alt="Site d’Henri Teinturier" /></a>
 </p>
 
-## Envie d’intégrer l’IA à votre activité ?
+## Développeur full-stack, l’IA en plus
 
-Vous manquez de temps ou de compétences techniques pour vous lancer ? **Je vous accompagne du premier conseil à la mise en place.**
+Je conçois des applications web complètes : base de données, logique serveur, interface et mise en production. J’y intègre l’IA quand elle apporte vraiment quelque chose : préparer un brouillon, résumer, classer, ou faire travailler deux outils ensemble.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧭 Choisir les bons usages</h3>
-      <p>Identifier où l’IA peut vous être utile et choisir des solutions adaptées à votre activité.</p>
-      <p><strong>Des priorités claires.</strong></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Automatiser vos tâches</h3>
-      <p>Relier vos outils et réduire les opérations répétitives pour vous et vos équipes.</p>
-      <p><strong>Du temps retrouvé.</strong></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛠️ Créer vos outils</h3>
-      <p>Développer des applications métier et des sites web qui répondent à vos besoins.</p>
-      <p><strong>Des solutions sur mesure.</strong></p>
-    </td>
-  </tr>
-</table>
+Je développe chaque jour avec **Claude Code et Codex** : je cadre le besoin, je fais les choix d’architecture, je teste en conditions réelles et je mets en production.
 
-> ### Vous gardez la maîtrise.
->
-> Je vous explique les choix et le fonctionnement des solutions, puis vous accompagne dans leur prise en main. **Vous comprenez vos outils et savez les utiliser.**
+> **Je cherche** une mission freelance ou un CDD, CDI ouvert : développement web, IA appliquée, automatisation.<br />
+> **Caen et Normandie, télétravail, ou Paris en hybride (deux jours sur place).**
 
-**L’objectif : gagner du temps, travailler plus sereinement et faciliter le travail de vos équipes.**
+## Ce que j’apporte
 
-[**Échangeons sur vos besoins →**](https://www.linkedin.com/in/henri-teinturier/)
+- **Des produits livrés de bout en bout** : trois applications en ligne, que je conçois, développe, déploie et utilise.
+- **De l’IA intégrée proprement** : appels côté serveur, brouillons versionnés et validés par l’utilisateur, génération de documents et de PDF. Premier projet RAG (pgvector) en 2024.
+- **De l’automatisation** : n8n et agents IA auto-hébergés (Hermes) sur VPS, que j’approfondis en ce moment.
+- **De la transmission** : formateur Git (M2I) et CI/CD GitHub Actions.
+- **Le sens du terrain** : 13 ans à diriger deux restaurants en franchise, jusqu’à 35 personnes. Aujourd’hui aussi professeur de maths en collège, d’où Séquencia.
 
-## Entreprise, développement et transmission
+## Parcours
 
-Mon parcours réunit **direction d’entreprise, développement en startup et enseignement**. J’aime comprendre un besoin, construire une solution utile et la faire évoluer avec ses utilisateurs.
+- **Développeur chez Nooco**, startup parisienne : deux ans en équipe agile.
+- **Formateur** Git (M2I) et CI/CD GitHub Actions, en 2025.
+- **Professeur de mathématiques** en collège depuis 2026, en parallèle de mes applications.
+- **Titre professionnel** de développeur web.
+- **Avant** : 13 ans à diriger deux restaurants en franchise.
 
-L’IA fait partie de ma pratique depuis **2023**, de mes premiers essais avec ChatGPT et Copilot à l’intégration d’assistants dans mes applications. Aujourd’hui, je développe notamment avec **Codex et Claude Code**.
+<a name="des-applications-pour-simplifier-le-quotidien"></a>
 
-Ouvert aux **missions et aux opportunités en équipe** autour de l’IA, de l’automatisation et des applications métier. [Parlons de votre projet →](https://www.linkedin.com/in/henri-teinturier/)
+## Projets
 
-## Des applications pour simplifier le quotidien
+### Séquencia · préparer ses cours avec l’IA
 
-Enseignement, investissements, budget du foyer : trois applications que je conçois et développe pour rendre les choses plus simples à préparer, à suivre et à comprendre.
+<a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-showcase-v1.png" alt="Séquencia : un chapitre de Pythagore avec ses séances et un document prêt à projeter. Données de démonstration." width="100%" /></a>
 
-### Séquencia · Préparer ses cours et suivre ses classes
+Utilisée en classe. L’IA (API OpenAI, côté serveur) propose exercices, évaluations et corrigés à partir des documents du chapitre ; l’enseignant ajuste, compare les versions et valide. Rendu PDF avec Puppeteer, partage d’un chapitre par lien en lecture seule révocable, mode projection.
 
-Organiser ses séances, retrouver ses documents et s’appuyer sur l’IA pour préparer ses supports pédagogiques.
+`React` `TypeScript` `TanStack Start` `PostgreSQL` `OpenAI` `Puppeteer` `Vercel`
 
-<a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-showcase-v1.png" alt="Séquencia : aperçu simplifié d’un chapitre de Pythagore, avec les séances terminées, la séance en cours et un document prêt à projeter. Données de démonstration." width="100%" /></a>
+[Voir l’application →](https://cours-college.vercel.app/presentation) · [Présentation et architecture](https://github.com/HenriTeinturier/sequencia-presentation)
 
-[Découvrir Séquencia →](https://cours-college.vercel.app/presentation) · [Présentation technique](https://github.com/HenriTeinturier/sequencia-presentation)
+### Thesia · suivi de portefeuille PEA et CTO
 
-### Thesia · Garder une vue claire sur ses investissements
+<a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-showcase-v1.png" alt="Thesia : vue d’ensemble avec la valeur totale, l’évolution du résultat et les comptes PEA et CTO. Montants fictifs." width="100%" /></a>
 
-Rassembler ses portefeuilles PEA et CTO et suivre leur évolution au même endroit.
+Opérations, positions et liquidités par compte ; gains latents, gains réalisés et dividendes calculés à partir des mouvements ; cotations Yahoo Finance ; accès authentifié.
 
-<a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-showcase-v1.png" alt="Thesia : aperçu simplifié de la vue d’ensemble, avec la valeur totale, l’évolution du résultat et les comptes PEA et CTO. Montants fictifs de démonstration." width="100%" /></a>
+`React` `TypeScript` `TanStack Start` `TanStack Query` `PostgreSQL` `Prisma` `Better Auth`
 
-[Voir l’accueil de Thesia →](https://thesia.henriteinturier.com) · [Présentation du projet](https://github.com/HenriTeinturier/thesia-presentation) · Accès privé
+[Voir l’accueil →](https://thesia.henriteinturier.com) · [Présentation et architecture](https://github.com/HenriTeinturier/thesia-presentation)
 
-### Fluxy · Suivre son budget et garder le cap
+### Fluxy · budget du foyer
 
-Enregistrer ses dépenses, se situer par rapport à son objectif et anticiper la fin du mois, seul ou à deux.
+<a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-showcase-v1.png" alt="Fluxy : ajout d’une dépense et suivi du budget quotidien avec une jauge d’objectif. Données de démonstration." width="100%" /></a>
 
-<a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-showcase-v1.png" alt="Fluxy : aperçu simplifié de l’ajout d’une dépense et du suivi du budget quotidien, avec une jauge d’objectif et une estimation de fin de mois. Données de démonstration." width="100%" /></a>
+Saisie rapide des dépenses, récurrents avec rappels et changements de tarif, estimation de fin de mois, budget partagé entre les membres du foyer.
 
-[Découvrir Fluxy →](https://fluxy-pied.vercel.app/) · [Présentation du projet](https://github.com/HenriTeinturier/fluxy-presentation)
+`React` `TypeScript` `TanStack Start` `PostgreSQL` `Prisma` `Better Auth` `Zod`
+
+[Voir l’application →](https://fluxy-pied.vercel.app/) · [Présentation et architecture](https://github.com/HenriTeinturier/fluxy-presentation)
+
+<sub>Le code de ces trois applications est privé, car elles manipulent des données personnelles. Je peux en montrer des extraits en entretien.</sub>
+
+### Et aussi
+
+- **[henriteinturier.com](https://henriteinturier.com)** : site Astro sur Vercel, formulaire serverless (Cloudflare Turnstile, Resend), SEO et données structurées.
+- **[RAG sur la documentation Next.js](https://github.com/HenriTeinturier/ScrapEmbeddingNextjsDoc)** (2024) : scraping, embeddings OpenAI et pgvector sur Neon, puis [une interface de questions-réponses](https://github.com/HenriTeinturier/Talk-To-NextJsDoc-With-OpenAi).
+- **[Démo Docker multi-services](https://github.com/HenriTeinturier/docker-demo-react-vite-express-nginx-mongodb)** : Nginx en reverse proxy, React, Express et MongoDB.
+- **[Atelier CI/CD GitHub Actions](https://github.com/HenriTeinturier/todolist-github-actions-solution)** : workflows, protection de branches et environnements, avec son [dépôt de départ](https://github.com/HenriTeinturier/todolist-github-action-starter).
+
+## Stack
+
+<p><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,prisma,mongodb,docker,githubactions,vercel,git&perline=12" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Prisma, MongoDB, Docker, GitHub Actions, Vercel, Git" /></p>
+
+**IA et automatisation** : OpenAI · Claude · Vercel AI SDK · RAG (pgvector) · n8n · Hermes<br />
+**Développement avec l’IA** : Claude Code · Codex<br />
+**Aussi** : TanStack Start, Router et Query · Better Auth · Zod · Astro · Puppeteer
 
 ## Mon activité sur GitHub
 
