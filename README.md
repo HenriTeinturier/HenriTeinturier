@@ -37,11 +37,11 @@ Je développe chaque jour avec **Claude Code et Codex** : je cadre le besoin, je
 
 ## Projets
 
-### Séquencia · préparer ses cours avec l’IA
+### Séquencia · préparer, projeter et suivre ses cours
 
-<a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-showcase-v1.png" alt="Séquencia : un chapitre de Pythagore avec ses séances et un document prêt à projeter. Données de démonstration." width="100%" /></a>
+<a href="https://cours-college.vercel.app/presentation"><img src="assets/profile/sequencia-1-seance-a-portee-de-main-selection-1200x627.png" alt="Séquencia : les documents d’une séance de Pythagore et un quiz projeté en classe. Données de démonstration." width="100%" /></a>
 
-Utilisée en classe. L’IA (API OpenAI, côté serveur) propose exercices, évaluations et corrigés à partir des documents du chapitre ; l’enseignant ajuste, compare les versions et valide. Rendu PDF avec Puppeteer, partage d’un chapitre par lien en lecture seule révocable, mode projection.
+Je l’utilise chaque jour en classe. Chapitres et séances avec leurs documents, exercices et quiz au même endroit, prêts à projeter ; suivi de l’avancement de chaque classe. L’IA (API OpenAI, côté serveur) propose exercices, évaluations et corrigés, dont une version élève et une version prof avec barème ; l’enseignant relit, ajuste et valide. Rendu PDF avec Puppeteer, partage d’un chapitre par lien en lecture seule révocable.
 
 `React` `TypeScript` `TanStack Start` `PostgreSQL` `OpenAI` `Puppeteer` `Vercel`
 
@@ -49,9 +49,9 @@ Utilisée en classe. L’IA (API OpenAI, côté serveur) propose exercices, éva
 
 ### Thesia · suivi de portefeuille PEA et CTO
 
-<a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-showcase-v1.png" alt="Thesia : vue d’ensemble avec la valeur totale, l’évolution du résultat et les comptes PEA et CTO. Montants fictifs." width="100%" /></a>
+<a href="https://thesia.henriteinturier.com"><img src="assets/profile/thesia-1-pea-cto-selection-1200x627.png" alt="Thesia : valeur totale d’un portefeuille PEA et CTO et son évolution. Montants fictifs." width="100%" /></a>
 
-Opérations, positions et liquidités par compte ; gains latents, gains réalisés et dividendes calculés à partir des mouvements ; cotations Yahoo Finance ; accès authentifié.
+Opérations, positions et liquidités par compte ; gains latents, gains réalisés et dividendes calculés à partir des mouvements ; variation du jour et gain ou perte par position (cotations Yahoo Finance) ; fiche par titre préremplie à partir du ticker, avec conviction, prix cibles et alertes ; accès authentifié.
 
 `React` `TypeScript` `TanStack Start` `TanStack Query` `PostgreSQL` `Prisma` `Better Auth`
 
@@ -59,9 +59,9 @@ Opérations, positions et liquidités par compte ; gains latents, gains réalis�
 
 ### Fluxy · budget du foyer
 
-<a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-showcase-v1.png" alt="Fluxy : ajout d’une dépense et suivi du budget quotidien avec une jauge d’objectif. Données de démonstration." width="100%" /></a>
+<a href="https://fluxy-pied.vercel.app/"><img src="assets/profile/fluxy-1-petit-geste-selection-1200x627.png" alt="Fluxy : saisie d’une dépense et moyenne de dépense par jour comparée à l’objectif. Données de démonstration." width="100%" /></a>
 
-Saisie rapide des dépenses, récurrents avec rappels et changements de tarif, estimation de fin de mois, budget partagé entre les membres du foyer.
+Saisie rapide des dépenses, moyenne par jour comparée à un objectif, dépenses exceptionnelles à part, charges fixes avec rappels et changements de tarif, estimation de fin de mois, budget partagé entre les membres du foyer.
 
 `React` `TypeScript` `TanStack Start` `PostgreSQL` `Prisma` `Better Auth` `Zod`
 
