@@ -10,7 +10,7 @@
 
 ## Développeur full-stack, l’IA en plus
 
-Je conçois des applications web complètes : base de données, logique serveur, interface et mise en production. J’y intègre l’IA quand elle apporte vraiment quelque chose : préparer un brouillon, résumer, classer, ou faire travailler deux outils ensemble.
+Je conçois des applications web complètes : base de données, logique serveur, interface, SEO et mise en production. J’y intègre l’IA quand elle apporte vraiment quelque chose : préparer un brouillon, résumer, classer, ou faire travailler deux outils ensemble.
 
 Je développe chaque jour avec **Claude Code et Codex** : je cadre le besoin, je fais les choix d’architecture, je teste en conditions réelles et je mets en production.
 
